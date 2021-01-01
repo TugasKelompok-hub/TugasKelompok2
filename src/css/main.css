@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px) {
+    #header {
+        display: none;
+    }
+}
+
+body {
+    text-align: center;
+}
+
+.border-form {
+    border-style: solid;
+    width: 50%;
+}
+
+form {
+    display: inline-block;
+}
+
+.form-group {
+    text-align: left;
+}
